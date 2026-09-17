@@ -1,0 +1,9 @@
+nombre,apellido,email,area
+Ana,Pérez,ana.perez@example.com,Compras
+Bruno,Gómez,bruno.gomez@example.com,Ventas
+Lucía,Muñoz,lucia.munoz@example.com,TI
+Carla,Ruiz,duplicado@example.com,Compras
+Carlos,Ruiz,duplicado@example.com,Ventas
+,López,sin.nombre@example.com,TI
+Diego,Sosa,correo-invalido,Ventas
+Elena,Díaz,elena.diaz@example.com,Desconocida
